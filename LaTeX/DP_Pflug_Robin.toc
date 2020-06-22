@@ -1,0 +1,64 @@
+\babel@toc {czech}{}
+\contentsline {chapter}{\numberline {1}Úvod}{5}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Rešerše literatury}{7}{chapter.2}%
+\contentsline {section}{\numberline {2.1}VR}{7}{section.2.1}%
+\contentsline {section}{\numberline {2.2}AR}{9}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Metody sledování pohybu}{10}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Metody sběru dat}{11}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Virtuální realita (VR)}{13}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Definice VR}{13}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Historie}{14}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Metody sledování pohybu}{18}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Constellation}{19}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}PlayStation VR}{19}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Lighthouse}{19}{subsection.3.3.3}%
+\contentsline {subsection}{\numberline {3.3.4}Inside-Out}{20}{subsection.3.3.4}%
+\contentsline {section}{\numberline {3.4}Hardware VR v současnosti}{20}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}HTC Vive}{21}{subsection.3.4.1}%
+\contentsline {subsubsection}{HTC Vive}{21}{section*.4}%
+\contentsline {subsubsection}{HTC Vive Pro}{22}{section*.5}%
+\contentsline {subsubsection}{HTC Vive Cosmos}{22}{section*.6}%
+\contentsline {subsubsection}{HTC Vive Focus}{23}{section*.7}%
+\contentsline {subsection}{\numberline {3.4.2}Oculus}{23}{subsection.3.4.2}%
+\contentsline {subsubsection}{Oculus Go:}{23}{section*.8}%
+\contentsline {subsubsection}{Oculus Quest}{23}{section*.9}%
+\contentsline {subsubsection}{Oculus Rift S}{24}{section*.10}%
+\contentsline {subsection}{\numberline {3.4.3}PlayStation VR}{25}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}Valve Index}{26}{subsection.3.4.4}%
+\contentsline {section}{\numberline {3.5}Využití VR v současnosti}{27}{section.3.5}%
+\contentsline {subsection}{\numberline {3.5.1}Stavební průmysl}{27}{subsection.3.5.1}%
+\contentsline {subsection}{\numberline {3.5.2}Vojenství}{28}{subsection.3.5.2}%
+\contentsline {subsection}{\numberline {3.5.3}Automotive průmysl}{28}{subsection.3.5.3}%
+\contentsline {subsection}{\numberline {3.5.4}Marketing}{29}{subsection.3.5.4}%
+\contentsline {subsection}{\numberline {3.5.5}Lékařství}{29}{subsection.3.5.5}%
+\contentsline {subsection}{\numberline {3.5.6}Vzdělávání}{30}{subsection.3.5.6}%
+\contentsline {subsubsection}{Virtuální muzeum}{30}{section*.11}%
+\contentsline {subsection}{\numberline {3.5.7}Zábavní průmysl}{31}{subsection.3.5.7}%
+\contentsline {chapter}{\numberline {4}Image Based Modeling and Rendering}{32}{chapter.4}%
+\contentsline {chapter}{\numberline {5}Tvorba virtuálního muzea}{34}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Tvorba modelu budovy}{34}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Tvorba virtuálního prostředí}{35}{section.5.2}%
+\contentsline {chapter}{\numberline {6}Použitá data}{41}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Sběr dat}{42}{section.6.1}%
+\contentsline {subsection}{\numberline {6.1.1}Použité přístroje}{42}{subsection.6.1.1}%
+\contentsline {section}{\numberline {6.2}Zpracování dat}{44}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Import}{44}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Aligning photos}{44}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Build dense cloud}{46}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Build mesh}{46}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Build texture}{48}{subsection.6.2.5}%
+\contentsline {chapter}{\numberline {7}Příprava modelů pro vizualizaci ve VR}{50}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Retopologie modelů}{50}{section.7.1}%
+\contentsline {subsection}{\numberline {7.1.1}Instant Meshes}{50}{subsection.7.1.1}%
+\contentsline {subsection}{\numberline {7.1.2}Agisoft Metashape}{51}{subsection.7.1.2}%
+\contentsline {section}{\numberline {7.2}Tvorba normálových map}{52}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Unwrapping textur}{53}{section.7.3}%
+\contentsline {chapter}{\numberline {8}Import a vizualizace historických objektů ve VR}{54}{chapter.8}%
+\contentsline {section}{\numberline {8.1}Import modelů do UE4}{54}{section.8.1}%
+\contentsline {section}{\numberline {8.2}Tvorba a přiřazení materiálů}{55}{section.8.2}%
+\contentsline {section}{\numberline {8.3}Umístění a nasvětlení modelů}{56}{section.8.3}%
+\contentsline {chapter}{\numberline {9}Diskuze}{57}{chapter.9}%
+\contentsline {chapter}{\numberline {10}Závěr}{60}{chapter.10}%
+\contentsline {chapter}{\numberline {11}Přílohy}{66}{chapter.11}%
+\contentsline {section}{\numberline {11.1}Příloha A - Reporty}{66}{section.11.1}%
+\contentsline {section}{\numberline {11.2}Příloha B - Obsah přiloženého USB flash drivu}{66}{section.11.2}%

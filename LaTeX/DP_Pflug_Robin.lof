@@ -1,0 +1,39 @@
+\babel@toc {czech}{}
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Vývoj počtu nově vzniklých publikací v oblasti AR a VR. [48]}}{9}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Výstup dokumentace paláce Dolmabahçe - obarvené mračno bodů [50]}}{12}{figure.2.2}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Nákres zrcadlového stereoskopu [4]}}{14}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Zařízení nazývané Damoklův meč [56]}}{16}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces HTC VIVE SteamVR [57]}}{18}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Model postupného vyzařování IR paprsku základní stanicí. [zdroj: 15]}}{20}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Oculus Quest [23]}}{24}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces PlayStation VR HMD [24]}}{25}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Valve Index [27]}}{27}{figure.3.7}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Využití VR v lékařství [56]}}{30}{figure.3.8}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Využití VR v zábavním průmyslu [56]}}{31}{figure.3.9}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {5.1}{\ignorespaces Model budovy vyhotovený v softwaru \textit {SketchUp}}}{34}{figure.5.1}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Tvorba a nastavení nové krajiny v \textit {UE4} }}{35}{figure.5.2}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces „Nudlový“ graf nového materiálu krajiny}}{37}{figure.5.3}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Nanášení vrstev materiálu na krajinu}}{38}{figure.5.4}%
+\contentsline {figure}{\numberline {5.5}{\ignorespaces Vlevo je výchozí jednoduchá kolizní síť (zelené linie). Vpravo je kolizní síť komplexní (světlé linie). }}{39}{figure.5.5}%
+\contentsline {figure}{\numberline {5.6}{\ignorespaces Výsledný vzhled krajiny s budovou muzea}}{40}{figure.5.6}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces Fotografie dokumentovaných objektů}}{41}{figure.6.1}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Schéma vhodného rozložení os snímkování za účelem následného zpracování IBMR technologií}}{42}{figure.6.2}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Dialogové okno pro nastavení \textit {Aligning photos}}}{44}{figure.6.3}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Příklad retopologie modelu Římského sarkofágu 1 v softwaru \textit {Instant Meshes}: vlevo je původní \textit {High-poly} model, který je složen z 3048821 trojúhelníků (hodnota \textit {faces}); vpravo je výsledný \textit {Low-poly} model obsahující pouze 43490 trojúhelníků}}{51}{figure.7.1}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Příklad retopologie modelu Římského sarkofágu 2 v softwaru \textit {Agisoft Metashape}: vlevo je původní \textit {High-poly} model; vpravo je výsledný \textit {Low-poly} model}}{52}{figure.7.2}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Normálová mapa textury Římského sarkofágu 2}}{53}{figure.7.3}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces Princip rozbalování textury (unwrapping)}}{53}{figure.7.4}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {8.1}{\ignorespaces Dialogové okno pro nastavení parametrů importu}}{54}{figure.8.1}%
+\contentsline {figure}{\numberline {8.2}{\ignorespaces Grafy nově vytvořených materiálů pro jednotlivé modely}}{55}{figure.8.2}%
+\contentsline {figure}{\numberline {8.3}{\ignorespaces Rozmístění světel uvnitř virtuálního muzea}}{56}{figure.8.3}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\addvspace {10\p@ }

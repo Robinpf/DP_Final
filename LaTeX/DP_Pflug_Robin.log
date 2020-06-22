@@ -1,0 +1,2167 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2019.12.11)  23 MAY 2020 13:40
+entering extended mode
+**./DP_Pflug_Robin.tex
+(DP_Pflug_Robin.tex
+LaTeX2e <2019-10-01> patch level 3
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\report.cls"
+Document Class: report 2019/10/25 v1.4k Standard LaTeX document class
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\size12.clo"
+File: size12.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@chapter=\count81
+\c@section=\count82
+\c@subsection=\count83
+\c@subsubsection=\count84
+\c@paragraph=\count85
+\c@subparagraph=\count86
+\c@figure=\count87
+\c@table=\count88
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry-de\geometry.
+sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+) ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifpdf.sty"
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\iftex.sty"
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifvtex.sty"
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifxetex.sty"
+Package: ifxetex 2019/10/25 v0.7 ifxetex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count89
+\Gm@cntv=\count90
+\c@Gm@tempcnt=\count91
+\Gm@bindingoffset=\dimen103
+\Gm@wd@mp=\dimen104
+\Gm@odd@mp=\dimen105
+\Gm@even@mp=\dimen106
+\Gm@layoutwidth=\dimen107
+\Gm@layoutheight=\dimen108
+\Gm@layouthoffset=\dimen109
+\Gm@layoutvoffset=\dimen110
+\Gm@dimlist=\toks15
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/geometry\geometry.cfg
+")
+
+Package geometry Warning: Over-specification in `h'-direction.
+    `width' (483.69684pt) is ignored.
+
+) ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\inputenc.sty"
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+) ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\array.sty"
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen111
+\ar@mcellbox=\box27
+\extrarowheight=\dimen112
+\NC@list=\toks18
+\extratabsurround=\skip43
+\backup@length=\skip44
+\ar@cellbox=\box28
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/multirow\multirow.sty
+"
+Package: multirow 2019/05/31 v2.5 Span multiple rows of a table
+\multirow@colwidth=\skip45
+\multirow@cntb=\count92
+\multirow@dima=\skip46
+\bigstrutjot=\dimen113
+) ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\hhline.sty"
+Package: hhline 2014/10/28 v2.03 Table rule package (DPC)
+) ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/was\gensymb.sty"
+Package: gensymb 2003/07/02 v1.0 (WaS)
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphicx.sty
+"
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\graphics.sty
+"
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+ ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\graphics
+.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-def\pdftex.d
+ef"
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen114
+\Gin@req@width=\dimen115
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.sty"
+Package: babel 2019/11/14 3.36 The Babel package
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\switch.def"
+File: switch.def 2019/11/14 3.36 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/arabi\bblopts.cfg"
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/babel-czech\czech.ldf
+"
+Language: czech 2008/07/06 v3.1a Czech support from the babel system
+ ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\babel.def"
+File: babel.def 2019/11/14 3.36 Babel common definitions
+\babel@savecnt=\count93
+\U@D=\dimen116
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/babel\txtbabel.def"
+)
+\bbl@dirlevel=\count94
+)
+Package babel Info: Making " an active character on input line 172.
+\cs@wordlen=\count95
+Package babel Info: Making - an active character on input line 226.
+))
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/enumitem\enumitem.sty
+"
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip47
+\enit@outerparindent=\dimen117
+\enit@toks=\toks19
+\enit@inbox=\box29
+\enit@count@id=\count96
+\enitdp@description=\count97
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pdfpages.sty
+"
+Package: pdfpages 2019/11/21 v0.5o Insert pages of external PDF documents (AM)
+ ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\calc.sty"
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count98
+\calc@Bcount=\count99
+\calc@Adimen=\dimen118
+\calc@Bdimen=\dimen119
+\calc@Askip=\skip48
+\calc@Bskip=\skip49
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count100
+\calc@Cskip=\skip50
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/eso-pic\eso-pic.sty"
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\atbegshi.s
+ty"
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\infwarerr.
+sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\ltxcmds.st
+y"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)) ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/xcolor\xcolor.sty"
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics-cfg\color.cf
+g"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+\AM@pagewidth=\dimen120
+\AM@pageheight=\dimen121
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdfpages\pppdftex.def
+"
+File: pppdftex.def 2019/11/21 v0.5o Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box30
+\AM@global@opts=\toks20
+\AM@toc@title=\toks21
+\c@AM@survey=\count101
+\AM@templatesizebox=\box31
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsmath.sty"
+Package: amsmath 2019/11/16 v2.17d AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen122
+)) ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsbsy.sty
+"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen123
+) ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count102
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count103
+\leftroot@=\count104
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count105
+\DOTSCASE@=\count106
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box32
+\strutbox@=\box33
+\big@size=\dimen124
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
+\dotsspace@=\muskip10
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
+\tag@help=\toks23
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
+\andhelp@=\toks24
+\eqnshift@=\dimen125
+\alignsep@=\dimen126
+\tagshift@=\dimen127
+\tagwidth@=\dimen128
+\totwidth@=\dimen129
+\lineht@=\dimen130
+\@envbody=\toks25
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2858.
+LaTeX Info: Redefining \] on input line 2859.
+) ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/tools\verbatim.sty"
+Package: verbatim 2019/11/10 v1.5r LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks27
+\verbatim@line=\toks28
+\verbatim@in@stream=\read1
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.sty
+"
+\lst@mode=\count114
+\lst@gtempboxa=\box34
+\lst@token=\toks29
+\lst@length=\count115
+\lst@currlwidth=\dimen131
+\lst@column=\count116
+\lst@pos=\count117
+\lst@lostspace=\dimen132
+\lst@width=\dimen133
+\lst@newlines=\count118
+\lst@lineno=\count119
+\lst@maxwidth=\dimen134
+ ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\lstmisc.sty
+"
+File: lstmisc.sty 2019/09/10 1.8c (Carsten Heinz)
+\c@lstnumber=\count120
+\lst@skipnumbers=\count121
+\lst@framebox=\box35
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/listings\listings.cfg
+"
+File: listings.cfg 2019/09/10 1.8c listings configuration
+))
+Package: listings 2019/09/10 1.8c (Carsten Heinz)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hyperref.sty
+"
+Package: hyperref 2019/11/10 v7.00c Hypertext links for LaTeX
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/pdftexcmds\pdftexcmds
+.sty"
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvsetkeys.
+sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\etexcmds.s
+ty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/iftex\ifluatex.sty"
+Package: ifluatex 2019/10/25 v1.5 ifluatex legacy package. Use iftex instead.
+)))
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\kvdefineke
+ys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\pdfescape.
+sty"
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\hycolor.sty"
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\xcolor-patch
+.sty"
+Package: xcolor-patch 2016/05/16 xcolor patch
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\hopatch.sty"
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+)))
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\letltxmacro.
+sty"
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\kvoptions.st
+y"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen135
+\Hy@linkcounter=\count122
+\Hy@pagecounter=\count123
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\pd1enc.def"
+File: pd1enc.def 2019/11/10 v7.00c Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\intcalc.st
+y"
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count124
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/00miktex\hyperref.cfg
+"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4535.
+Package hyperref Info: Link nesting OFF on input line 4540.
+Package hyperref Info: Hyper index ON on input line 4543.
+Package hyperref Info: Plain pages OFF on input line 4550.
+Package hyperref Info: Backreferencing OFF on input line 4555.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4788.
+\c@Hy@tempcnt=\count125
+ ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5147.
+\XeTeXLinkMargin=\dimen136
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\bitset.sty
+"
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\bigintcalc
+.sty"
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count126
+\Field@Width=\dimen137
+\Fld@charsize=\dimen138
+Package hyperref Info: Hyper figures OFF on input line 6418.
+Package hyperref Info: Link nesting OFF on input line 6423.
+Package hyperref Info: Hyper index ON on input line 6426.
+Package hyperref Info: backreferencing OFF on input line 6433.
+Package hyperref Info: Link coloring OFF on input line 6438.
+Package hyperref Info: Link coloring with OCG OFF on input line 6443.
+Package hyperref Info: PDF/A mode OFF on input line 6448.
+LaTeX Info: Redefining \ref on input line 6488.
+LaTeX Info: Redefining \pageref on input line 6492.
+\Hy@abspage=\count127
+\c@Item=\count128
+\c@Hfootnote=\count129
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\hpdftex.def"
+File: hpdftex.def 2019/11/10 v7.00c Hyperref driver for pdfTeX
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\atveryend.st
+y"
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+)
+\Fld@listcount=\count130
+\c@bookmark@seq@number=\count131
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\rerunfileche
+ck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\uniquecoun
+ter.sty"
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip54
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\amsfonts.sty
+"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\rotating.sty
+"
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count132
+\rotFPtop=\skip55
+\rotFPbot=\skip56
+\rot@float@box=\box36
+\rot@mess@toks=\toks30
+) ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/dirtree\dirtree.sty
+"
+Package: dirtree 2012/12/11 v0.32 package wrapper for dirtree
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/dirtree\dirtree.tex
+" `dirtree' v0.32, 2012/12/11 (jcc)
+\DT@offset=\dimen139
+\DT@width=\dimen140
+\DT@sep=\dimen141
+\DT@all=\dimen142
+\DT@rulewidth=\dimen143
+\DT@dotwidth=\dimen144
+\DTbaselineskip=\dimen145
+\DT@counti=\count133
+\DT@countii=\count134
+\DT@countiii=\count135
+\DT@countiv=\count136
+\DT@indent=\dimen146
+\DT@parskip=\dimen147
+\DT@baselineskip=\dimen148
+)
+File: dirtree.tex 2012/12/11 v0.32 `dirtree' (jcc)
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/etoolbox\etoolbox.sty
+"
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count137
+) ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\fontenc.sty"
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\ot2enc.def"
+File: ot2enc.def 2001/08/11 v3.3a Cyrillic encoding definition file
+Now handling font encoding OT2 ...
+... processing UTF-8 mapping file for font encoding OT2
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ot2enc.dfu"
+File: ot2enc.dfu 2019/07/11 v1.2j UTF-8 support for inputenc
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0462 (decimal 1122)
+   defining Unicode char U+0463 (decimal 1123)
+   defining Unicode char U+0472 (decimal 1138)
+   defining Unicode char U+0473 (decimal 1139)
+   defining Unicode char U+0474 (decimal 1140)
+   defining Unicode char U+0475 (decimal 1141)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+2116 (decimal 8470)
+))
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\ot1enc.def"
+File: ot1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding OT1 on input line 48.
+))
+(DP_Pflug_Robin.aux)
+\openout1 = `DP_Pflug_Robin.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT2/cmr/m/n on input line 73.
+LaTeX Font Info:    Trying to load font information for OT2+cmr on input line 7
+3.
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\ot2cmr.fd"
+File: ot2cmr.fd 2001/08/11 v3.2c Computer Modern Cyrillic font definitions
+)
+LaTeX Font Info:    ... okay on input line 73.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: includefoot 
+* h-part:(L,W,R)=(71.13188pt, 455.24411pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 711.3189pt, 62.59607pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=455.24411pt
+* \textheight=681.3189pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Info: Redefining \celsius on input line 73.
+Package gensymb Info: Faking symbols for \degree and \celsius on input line 73.
+
+
+Package gensymb Warning: Not defining \perthousand.
+
+LaTeX Info: Redefining \ohm on input line 73.
+Package gensymb Info: Using \Omega for \ohm on input line 73.
+
+Package gensymb Warning: Not defining \micro.
+
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-pdf.
+mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count138
+\scratchdimen=\dimen149
+\scratchbox=\box37
+\nofMPsegments=\count139
+\nofMParguments=\count140
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count141
+\MPscratchDim=\dimen150
+\MPnumerator=\count142
+\makeMPintoPDFobject=\count143
+\everyMPtoPDFconversion=\toks32
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epstopdf
+-base.sty"
+Package: epstopdf-base 2019/11/24 v2.7 Base part for package epstopdf
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+42.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 460.
+)
+\AtBeginShipoutBox=\box38
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\pdflscape.st
+y"
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+ ("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 84.
+)
+\c@lstlisting=\count144
+Package hyperref Info: Link coloring OFF on input line 73.
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.sty"
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/oberdiek\refcount.sty
+"
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+)
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/generic/oberdiek\gettitlest
+ring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count145
+)
+LaTeX Info: Redefining \ref on input line 73.
+LaTeX Info: Redefining \pageref on input line 73.
+LaTeX Info: Redefining \nameref on input line 73.
+ (DP_Pflug_Robin.out) (DP_Pflug_Robin.out)
+\@outlinefile=\write3
+\openout3 = `DP_Pflug_Robin.out'.
+
+<logo.png, id=223, 173.14688pt x 138.5175pt>
+File: logo.png Graphic file (type png)
+<use logo.png>
+Package pdftex.def Info: logo.png  used on input line 88.
+(pdftex.def)             Requested size: 199.16928pt x 159.34036pt.
+ [1
+
+{C:/Users/HP/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./logo.png (PN
+G copy)>]
+
+Package pdfpages Warning: Option `page' is unknow to \includepdf.
+(pdfpages)                Did you mean `pages'? (Note the `s'!)
+(pdfpages)                OK, I'll proceed as if it were `pages'.
+
+<zadani.pdf, id=232, 597.432pt x 844.83629pt>
+File: zadani.pdf Graphic file (type pdf)
+<use zadani.pdf>
+Package pdftex.def Info: zadani.pdf  used on input line 111.
+(pdftex.def)             Requested size: 597.43054pt x 844.83423pt.
+File: zadani.pdf Graphic file (type pdf)
+<use zadani.pdf>
+Package pdftex.def Info: zadani.pdf  used on input line 111.
+(pdftex.def)             Requested size: 597.43054pt x 844.83423pt.
+<zadani.pdf, id=235, page=1, 597.432pt x 844.83629pt>
+File: zadani.pdf Graphic file (type pdf)
+<use zadani.pdf, page 1>
+Package pdftex.def Info: zadani.pdf , page1 used on input line 111.
+(pdftex.def)             Requested size: 597.43054pt x 844.83423pt.
+File: zadani.pdf Graphic file (type pdf)
+<use zadani.pdf, page 1>
+Package pdftex.def Info: zadani.pdf , page1 used on input line 111.
+(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
+File: zadani.pdf Graphic file (type pdf)
+<use zadani.pdf, page 1>
+Package pdftex.def Info: zadani.pdf , page1 used on input line 111.
+(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
+File: zadani.pdf Graphic file (type pdf)
+<use zadani.pdf, page 1>
+Package pdftex.def Info: zadani.pdf , page1 used on input line 111.
+(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
+File: zadani.pdf Graphic file (type pdf)
+<use zadani.pdf, page 1>
+Package pdftex.def Info: zadani.pdf , page1 used on input line 111.
+(pdftex.def)             Requested size: 597.93192pt x 845.54323pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.111 \includepdf[page=-]{zadani.pdf}
+                                      [1 <./zadani.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 120--124
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.124 \end{abstract}
+                     [1]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
+36.
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/base\omscmr.fd"
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 136.
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--142
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--142
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.142 \end{abstract}
+                     [1]
+Overfull \hbox (8.88966pt too wide) in paragraph at lines 147--156
+\OT1/cmr/m/it/12 torskem a pravech sou-vi-sejcch s pravem au-torskym. K
+ jejmu uzit, s vyjimkou bezuplatnych
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--156
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--156
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.157 \end{abstract}
+                     [1]
+Underfull \hbox (badness 10000) in paragraph at lines 162--166
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.169 \end{abstract}
+                     [1]
+Underfull \hbox (badness 10000) in paragraph at lines 174--178
+
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.181 \end{abstract}
+                     [1] (DP_Pflug_Robin.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 4.
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 4.
+
+("C:\Users\HP\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has
+ been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.44 ...ne {6.2}Zpracování dat}{44}{section.6.2}
+                                                  % [1
+
+])
+\tf@toc=\write4
+\openout4 = `DP_Pflug_Robin.toc'.
+
+ [2]
+Underfull \hbox (badness 10000) in paragraph at lines 189--212
+
+ []
+
+[3
+
+] (DP_Pflug_Robin.lof
+Overfull \hbox (9.38411pt too wide) in paragraph at lines 29--29
+ \OT1/cmr/m/it/12 shes\OT1/cmr/m/n/12 : vlevo je puvodn \OT1/cmr/m/it/12 Hig
+h-poly \OT1/cmr/m/n/12 mo-del, ktery je slozen z 3048821 trojuhelnku 
+ []
+
+)
+\tf@lof=\write5
+\openout5 = `DP_Pflug_Robin.lof'.
+
+ [4
+
+]
+Kapitola 1.
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--227
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--227
+
+ []
+
+[5
+
+] [6]
+Kapitola 2.
+
+Underfull \hbox (badness 10000) in paragraph at lines 229--234
+
+ []
+
+
+Overfull \hbox (3.78679pt too wide) in paragraph at lines 229--234
+\OT1/cmr/m/n/12 uve-denm do-stupnych zarzen pro verejnost na trh v ob-
+dob let 2010 az 2012. V predchozch
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--256
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 236--256
+
+ []
+
+[7
+
+] [8]
+<publikace_VR.jpg, id=414, 1362.08875pt x 536.0025pt>
+File: publikace_VR.jpg Graphic file (type jpg)
+<use publikace_VR.jpg>
+Package pdftex.def Info: publikace_VR.jpg  used on input line 259.
+(pdftex.def)             Requested size: 455.24408pt x 179.14688pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--271
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 264--271
+
+ []
+
+[9 <./publikace_VR.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 273--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--286
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--286
+
+ []
+
+[10]
+
+Package hyperref Warning: Composite letter `\textasciicaron+e'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 287.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--298
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--298
+
+ []
+
+
+Overfull \hbox (1.34229pt too wide) in paragraph at lines 288--298
+\OT1/cmr/m/n/12 uvad me-tody do-ku-men-tace a zpra-covan fo-to-gra-m-me-t
+-rickymi me-to-dami. Dals cast clanku
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 288--298
+
+ []
+
+[11]
+<laser_scanning.jpg, id=427, 715.67375pt x 533.995pt>
+File: laser_scanning.jpg Graphic file (type jpg)
+<use laser_scanning.jpg>
+Package pdftex.def Info: laser_scanning.jpg  used on input line 301.
+(pdftex.def)             Requested size: 170.71652pt x 127.37105pt.
+ [12 <./laser_scanning.jpg>]
+Kapitola 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--326
+
+ []
+
+
+Overfull \hbox (0.64284pt too wide) in paragraph at lines 308--326
+\OT1/cmr/m/n/12 Smyslova zpetna vazba (sen-sory fe-edback) je tret dule
+zitou cast kazde VR. Jako predchoz
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--326
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 308--326
+
+ []
+
+[13
+
+]
+Overfull \hbox (1.56766pt too wide) in paragraph at lines 328--329
+\OT1/cmr/m/n/12 stejneho ob-jektu, porzenych z ruznych uhlu z ne-nu-lo
+ve zakladny, vznikne vjem plasticnosti
+ []
+
+<Wheatstoneův_zrcadlový_stereoskop.jpg, id=437, 662.475pt x 365.365pt>
+File: Wheatstoneův_zrcadlový_stereoskop.jpg Graphic file (type jpg)
+<use Wheatstoneův_zrcadlový_stereoskop.jpg>
+Package pdftex.def Info: Wheatstoneův_zrcadlový_stereoskop.jpg  used on input
+ line 332.
+(pdftex.def)             Requested size: 270.30118pt x 149.07587pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--345
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 336--345
+
+ []
+
+[14 <./Wheatstoneův_zrcadlový_stereoskop.jpg>]
+<damoklův_meč.jpg, id=443, 887.315pt x 668.4975pt>
+File: damoklův_meč.jpg Graphic file (type jpg)
+<use damoklův_meč.jpg>
+Package pdftex.def Info: damoklův_meč.jpg  used on input line 348.
+(pdftex.def)             Requested size: 184.9429pt x 139.32777pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--386
+
+ []
+
+
+Overfull \hbox (5.33731pt too wide) in paragraph at lines 352--386
+\OT1/cmr/m/n/12 Svetove pro-sluly MIT (Massa-chusettsky tech-no-lo-gicky i
+n-sti-tut) vy-dala v roce 1977 virtualn
+ []
+
+
+Overfull \hbox (1.02112pt too wide) in paragraph at lines 352--386
+\OT1/cmr/m/n/12 mestem. Pro tento virtualn mo-del exis-to-valy tri rezimy
+ prohlzen: leto, zima a mnohouhel-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--386
+
+ []
+
+
+Overfull \hbox (5.87047pt too wide) in paragraph at lines 352--386
+\OT1/cmr/m/n/12 veru na Marsu v predpokladanem realnem case, a to na-vzd
+ory zpozden signalu zpusobenym
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--386
+
+ []
+
+
+Overfull \hbox (1.62766pt too wide) in paragraph at lines 352--386
+\OT1/cmr/m/n/12 Vedci z Ge-or-gia Tech and Emory Uni-ver-sity vyuzvali VR p
+ro vy-tvoren scenaru v prostred
+ []
+
+
+Overfull \hbox (0.52008pt too wide) in paragraph at lines 352--386
+\OT1/cmr/m/n/12 valecnych zon ve Viet-namu. Tento pro-jekt slouzil jako fo
+rma ex-pozicn te-ra-pie PTSD(post-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--386
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 352--386
+
+ []
+
+[15] [16 <./damoklův_meč.jpg>] [17]
+<vive_steam.jpg, id=461, 997.7275pt x 585.18625pt>
+File: vive_steam.jpg Graphic file (type jpg)
+<use vive_steam.jpg>
+Package pdftex.def Info: vive_steam.jpg  used on input line 389.
+(pdftex.def)             Requested size: 455.24408pt x 267.01021pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--401
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--401
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 394--401
+
+ []
+
+[18 <./vive_steam.jpg>]
+Overfull \hbox (7.96999pt too wide) in paragraph at lines 409--410
+\OT1/cmr/m/n/12 sta-nic do poctace. Zakladnove sta-nice jsou umsteny v
+ pro-ti-lehlych hornch rozch mstnosti.
+ []
+
+<VIVE_laser.jpg, id=467, 2492.71275pt x 529.98pt>
+File: VIVE_laser.jpg Graphic file (type jpg)
+<use VIVE_laser.jpg>
+Package pdftex.def Info: VIVE_laser.jpg  used on input line 413.
+(pdftex.def)             Requested size: 455.24408pt x 96.7832pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 418--422
+
+ []
+
+[19]
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 433.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--447
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 441--447
+
+ []
+
+[20 <./VIVE_laser.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 449--450
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--458
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--458
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--458
+
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 469--476
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--476
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 469--476
+
+ []
+
+[22]
+Underfull \hbox (badness 10000) in paragraph at lines 502--503
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 504--507
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--515
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--515
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 508--515
+
+ []
+
+[23]
+<oculus.jpg, id=505, 600.2425pt x 587.19376pt>
+File: oculus.jpg Graphic file (type jpg)
+<use oculus.jpg>
+Package pdftex.def Info: oculus.jpg  used on input line 518.
+(pdftex.def)             Requested size: 256.0748pt x 250.51723pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--527
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--527
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 522--527
+
+ []
+
+[24 <./oculus.jpg>]
+<PS.jpg, id=512, 857.2025pt x 554.07pt>
+File: PS.jpg Graphic file (type jpg)
+<use PS.jpg>
+Package pdftex.def Info: PS.jpg  used on input line 543.
+(pdftex.def)             Requested size: 284.52756pt x 183.90892pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--550
+
+ []
+
+
+Overfull \hbox (5.8329pt too wide) in paragraph at lines 547--550
+\OT1/cmr/m/n/12 na pripojenou ob-ra-zovku vi-deo vystup, zcela oddeleny od 
+toho, co vid uzivatel na HMD.[24] 
+ []
+
+[25 <./PS.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 552--562
+
+ []
+
+
+Overfull \hbox (7.51436pt too wide) in paragraph at lines 552--562
+\OT1/cmr/m/n/12 pevny, me-cha-nicky na-sta-vi-telny upnac po-pruh. Zadn
+ cast po-pruhu ob-sa-huje maly cselnk,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 552--562
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 552--562
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 552--562
+
+ []
+
+[26]
+<valve.jpg, id=521, 1116.17pt x 515.9275pt>
+File: valve.jpg Graphic file (type jpg)
+<use valve.jpg>
+Package pdftex.def Info: valve.jpg  used on input line 575.
+(pdftex.def)             Requested size: 455.24408pt x 210.4295pt.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+c'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 579.
+
+
+Package hyperref Warning: Composite letter `\textring+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textring' on input line 582.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--588
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 583--588
+
+ []
+
+
+Overfull \hbox (2.86513pt too wide) in paragraph at lines 583--588
+\OT1/cmr/m/n/12 Behem celeho pro-cesu vystavby umoznuj zakaznkum ak-
+tu-a-li-zo-vane 3D mo-dely v prostred
+ []
+
+[27 <./valve.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 590--595
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 590--595
+
+ []
+
+
+Package hyperref Warning: Composite letter `\textring+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textring' on input line 596.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 597--603
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 597--603
+
+ []
+
+[28]
+Underfull \hbox (badness 10000) in paragraph at lines 605--608
+
+ []
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 609.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--619
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--619
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--619
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--619
+
+ []
+
+[29]
+<lekarstvi.jpg, id=534, 632.3625pt x 569.12625pt>
+File: lekarstvi.jpg Graphic file (type jpg)
+<use lekarstvi.jpg>
+Package pdftex.def Info: lekarstvi.jpg  used on input line 622.
+(pdftex.def)             Requested size: 256.0748pt x 230.46881pt.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+e'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 626.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--632
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--632
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--639
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--639
+
+ []
+
+[30 <./lekarstvi.jpg>]
+
+Package hyperref Warning: Composite letter `\textring+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textring' on input line 640.
+
+<zabava.jpg, id=541, 612.2875pt x 521.95pt>
+File: zabava.jpg Graphic file (type jpg)
+<use zabava.jpg>
+Package pdftex.def Info: zabava.jpg  used on input line 645.
+(pdftex.def)             Requested size: 256.0748pt x 218.29364pt.
+[31 <./zabava.jpg>]
+Kapitola 4.
+
+Underfull \hbox (badness 10000) in paragraph at lines 650--659
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 650--659
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 650--659
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 650--659
+
+ []
+
+[32
+
+] [33]
+Kapitola 5.
+
+Underfull \hbox (badness 10000) in paragraph at lines 663--666
+
+ []
+
+<budova.jpg, id=554, 1927.2pt x 1033.8625pt>
+File: budova.jpg Graphic file (type jpg)
+<use budova.jpg>
+Package pdftex.def Info: budova.jpg  used on input line 669.
+(pdftex.def)             Requested size: 312.9803pt x 167.89812pt.
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 673.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 674--679
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 674--679
+
+ []
+
+[34
+
+ <./budova.jpg>]
+<newLevel_settings.jpg, id=559, 1785.67125pt x 965.6075pt>
+File: newLevel_settings.jpg Graphic file (type jpg)
+<use newLevel_settings.jpg>
+Package pdftex.def Info: newLevel_settings.jpg  used on input line 682.
+(pdftex.def)             Requested size: 455.24408pt x 246.17508pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 686--696
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 686--696
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 686--696
+
+ []
+
+[35 <./newLevel_settings.jpg>] [36]
+<Landscape_Material.jpg, id=569, 1447.4075pt x 834.11626pt>
+File: Landscape_Material.jpg Graphic file (type jpg)
+<use Landscape_Material.jpg>
+Package pdftex.def Info: Landscape_Material.jpg  used on input line 699.
+(pdftex.def)             Requested size: 455.24408pt x 262.35345pt.
+ [37 <./Landscape_Material.jpg>]
+<Landscape_Paint.jpg, id=574, 1763.58875pt x 905.3825pt>
+File: Landscape_Paint.jpg Graphic file (type jpg)
+<use Landscape_Paint.jpg>
+Package pdftex.def Info: Landscape_Paint.jpg  used on input line 707.
+(pdftex.def)             Requested size: 455.24408pt x 233.70847pt.
+
+Overfull \hbox (0.58534pt too wide) in paragraph at lines 711--712
+[]\OT1/cmr/m/n/12 Nasledne byl im-por-tovan a umsten vy-tvoreny mo-del 
+bu-dovy mu-zea. Im-port lze provest
+ []
+
+<Collision.jpg, id=575, 1286.406pt x 522.753pt>
+File: Collision.jpg Graphic file (type jpg)
+<use Collision.jpg>
+Package pdftex.def Info: Collision.jpg  used on input line 715.
+(pdftex.def)             Requested size: 455.24408pt x 184.99232pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[38 <./Landscape_Paint.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 720--744
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 720--744
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 720--744
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 720--744
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 720--744
+
+ []
+
+[39 <./Collision.jpg>]
+<prostredi.jpg, id=584, 1482.53876pt x 703.62875pt>
+File: prostredi.jpg Graphic file (type jpg)
+<use prostredi.jpg>
+Package pdftex.def Info: prostredi.jpg  used on input line 747.
+(pdftex.def)             Requested size: 455.24408pt x 216.06125pt.
+ [40 <./prostredi.jpg>]
+Kapitola 6.
+<objekty.jpg, id=589, 616.704pt x 542.025pt>
+File: objekty.jpg Graphic file (type jpg)
+<use objekty.jpg>
+Package pdftex.def Info: objekty.jpg  used on input line 756.
+(pdftex.def)             Requested size: 398.33858pt x 350.1038pt.
+
+Package hyperref Warning: Composite letter `\textasciicaron+e'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 761.
+
+[41
+
+ <./objekty.jpg>]
+<snímkování.jpg, id=594, 1445.4pt x 688.974pt>
+File: snímkování.jpg Graphic file (type jpg)
+<use snímkování.jpg>
+Package pdftex.def Info: snímkování.jpg  used on input line 766.
+(pdftex.def)             Requested size: 455.24408pt x 216.99641pt.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 770.
+
+[42 <./snímkování.jpg>] [43]
+<align.jpg, id=607, 328.22626pt x 314.17375pt>
+File: align.jpg Graphic file (type jpg)
+<use align.jpg>
+Package pdftex.def Info: align.jpg  used on input line 834.
+(pdftex.def)             Requested size: 142.26378pt x 136.17549pt.
+ [44 <./align.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 853--856
+
+ []
+
+[45]
+Underfull \hbox (badness 10000) in paragraph at lines 872--875
+
+ []
+
+
+Overfull \hbox (1.96121pt too wide) in paragraph at lines 877--883
+\OT1/cmr/m/n/12 Predposlednm kro-kem bylo vy-tvoren st[]oveho mo-delu 
+slozeneho z trojuhelnku na zaklade
+ []
+
+[46] [47]
+Overfull \hbox (2.38023pt too wide) in paragraph at lines 905--906
+\OT1/cmr/m/n/12 Pokud zdro-jova data ob-sa-huj in-for-mace o barvach bodu,
+ lze prostrednictvm teto moznosti
+ []
+
+
+Overfull \hbox (4.17874pt too wide) in paragraph at lines 917--918
+\OT1/cmr/m/n/12 Zpusob ma-povan urcuje, jakym zpusobem bude ob-jekt do t
+ex-tury za-ba-len, z vce moznost,
+ []
+
+
+Overfull \hbox (13.89955pt too wide) in paragraph at lines 920--927
+\OT1/cmr/m/n/12 Volba zpusobu, jakym bu-dou vysledne tex-tury kom-bi-no-vat
+ hod-noty pi-xelu ze zpra-covavanych
+ []
+
+[48]
+Underfull \hbox (badness 10000) in paragraph at lines 932--935
+
+ []
+
+[49]
+Kapitola 7.
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 936.
+
+
+Package hyperref Warning: Composite letter `\textring+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textring' on input line 936.
+
+
+Package hyperref Warning: Composite letter `\textring+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textring' on input line 939.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 943--946
+
+ []
+
+[50
+
+]
+<IM.jpg, id=658, 1433.355pt x 551.661pt>
+File: IM.jpg Graphic file (type jpg)
+<use IM.jpg>
+Package pdftex.def Info: IM.jpg  used on input line 949.
+(pdftex.def)             Requested size: 455.24408pt x 175.20514pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 954--955
+
+ []
+
+[51 <./IM.jpg>]
+<retopologie_agisoft.jpg, id=664, 1078.0275pt x 401.0985pt>
+File: retopologie_agisoft.jpg Graphic file (type jpg)
+<use retopologie_agisoft.jpg>
+Package pdftex.def Info: retopologie_agisoft.jpg  used on input line 980.
+(pdftex.def)             Requested size: 455.24408pt x 169.38437pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 985--994
+
+ []
+
+<normal_maps.jpg, id=665, 861.2175pt x 863.225pt>
+File: normal_maps.jpg Graphic file (type jpg)
+<use normal_maps.jpg>
+Package pdftex.def Info: normal_maps.jpg  used on input line 997.
+(pdftex.def)             Requested size: 256.0748pt x 256.67761pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[52 <./retopologie_agisoft.jpg>]
+<wrapping.jpg, id=670, 937.5025pt x 413.545pt>
+File: wrapping.jpg Graphic file (type jpg)
+<use wrapping.jpg>
+Package pdftex.def Info: wrapping.jpg  used on input line 1006.
+(pdftex.def)             Requested size: 398.33858pt x 175.70697pt.
+ [53 <./normal_maps.jpg> <./wrapping.jpg>]
+Kapitola 8.
+
+Package hyperref Warning: Composite letter `\textring+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textring' on input line 1010.
+
+
+Package hyperref Warning: Composite letter `\textring+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textring' on input line 1013.
+
+<import_UE.jpg, id=675, 384.43625pt x 717.68124pt>
+File: import_UE.jpg Graphic file (type jpg)
+<use import_UE.jpg>
+Package pdftex.def Info: import_UE.jpg  used on input line 1018.
+(pdftex.def)             Requested size: 142.26378pt x 265.59265pt.
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 1022.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 1022.
+
+
+Package hyperref Warning: Composite letter `\textring+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textring' on input line 1022.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1031
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1031
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1023--1031
+
+ []
+
+
+Overfull \hbox (2.89435pt too wide) in paragraph at lines 1023--1031
+\OT1/cmr/m/n/12 1) \OT1/cmr/m/it/12 Tex-ture Sam-ple \OT1/cmr/m/n/12 ob-sa-huj
+c vy-tvorenou normalovou mapu od-povdajc tex-tury o rozlisen
+ []
+
+[54
+
+ <./import_UE.jpg>]
+<modely_materialy.jpg, id=681, 759.43726pt x 873.2625pt>
+File: modely_materialy.jpg Graphic file (type jpg)
+<use modely_materialy.jpg>
+Package pdftex.def Info: modely_materialy.jpg  used on input line 1034.
+(pdftex.def)             Requested size: 341.43306pt x 392.61804pt.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+e'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 1038.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+e'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 1038.
+
+
+Package hyperref Warning: Composite letter `\textring+u'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textring' on input line 1038.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1039--1042
+
+ []
+
+[55 <./modely_materialy.jpg>]
+<svetla.jpg, id=686, 1023.825pt x 933.4875pt>
+File: svetla.jpg Graphic file (type jpg)
+<use svetla.jpg>
+Package pdftex.def Info: svetla.jpg  used on input line 1045.
+(pdftex.def)             Requested size: 455.24408pt x 415.0659pt.
+ [56 <./svetla.jpg>]
+Kapitola 9.
+
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1067
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1067
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1067
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1067
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1067
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1067
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1067
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1050--1067
+
+ []
+
+[57
+
+] [58] [59]
+Kapitola 10.
+
+Package hyperref Warning: Composite letter `\textasciicaron+e'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 1068.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1078
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1078
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1078
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1069--1078
+
+ []
+
+[60
+
+]
+Underfull \hbox (badness 2384) in paragraph at lines 1092--1093
+[]\OT1/cmr/m/n/12 The LA-TEX Pro-ject. [on-line]. [cit 2020-1-8]. Do-stupne z:
+ \OT1/cmr/m/it/12 https://www.latex-
+ []
+
+
+Underfull \hbox (badness 1442) in paragraph at lines 1108--1109
+[]\OT1/cmr/m/n/12 Filefacts.com. \OT1/cmr/m/it/12 Vir-tools VR Pack. \OT1/cmr/m
+/n/12 [on-line]. 2015 [cit. 2020-1-18]. Do-stupne z:
+ []
+
+
+Underfull \hbox (badness 1478) in paragraph at lines 1114--1115
+\OT1/cmr/m/n/12 2019-4-27 [cit. 2020-1-19]. Do-stupne z: \OT1/cmr/m/it/12 http
+s://www.comfor.cz/blog/jak-vykonny-
+ []
+
+[61
+
+]
+Overfull \hbox (0.48257pt too wide) in paragraph at lines 1132--1133
+[]\OT1/cmr/m/n/12 Oculus from fa-ce-book. [on-line]. [cit. 2020-2-10]. Do-stupn
+e z: \OT1/cmr/m/it/12 https://www.oculus.com/ 
+ []
+
+
+Overfull \hbox (2.52248pt too wide) in paragraph at lines 1140--1141
+[]\OT1/cmr/m/n/12 Valve In-dex. [on-line]. [cit. 2020-2-14]. Do-stupne z: \OT1
+/cmr/m/it/12 https://www.valvesoftware.com/cs/ 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1144--1145
+\OT1/cmr/m/it/12 Overena-technologie-nizkonakladove-3d-fotogrammetricke-dokumen
+tace-pamatkovych-
+ []
+
+[62]
+Underfull \hbox (badness 2253) in paragraph at lines 1150--1151
+\OT1/cmr/m/n/12 [on-line]. 2018-8-2 [cit. 2020-2-23]. Do-stupne z: \OT1/cmr/m/
+it/12 https://www.6dhub.cz/virtualni-
+ []
+
+
+Overfull \hbox (6.316pt too wide) in paragraph at lines 1156--1158
+\OT1/cmr/m/n/12 2009 [cit. 2020-4-3]. Do-stupne z: \OT1/cmr/m/it/12 https://jo
+urnals.muni.cz/pedor/article/view/1152/892 
+ []
+
+
+Overfull \hbox (5.23763pt too wide) in paragraph at lines 1161--1162
+\OT1/cmr/m/it/12 -research.com/press-release/global-augmented-reality-ar-virtua
+l-reality-vr-in-healthcare-
+ []
+
+
+Overfull \hbox (4.59186pt too wide) in paragraph at lines 1171--1172
+[]\OT1/cmr/m/n/12 Unreal En-gine. [on-line]. [cit. 2020-5-2]. Do-stupne z: \OT
+1/cmr/m/it/12 https://www.unrealengine.com/en-
+ []
+
+[63]
+Overfull \hbox (14.82625pt too wide) in paragraph at lines 1177--1178
+[]\OT1/cmr/m/n/12 G4D \OT1/cmr/m/it/12 Agi-soft Me-ta-shape\OT1/cmr/m/n/12 . [o
+n-line]. [cit. 2020-5-7]. Do-stupne z: \OT1/cmr/m/it/12 https://www.metashape.
+cz/ 
+ []
+
+[64] [65]
+Kapitola 11.
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 1211.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 1212.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 1232.
+
+
+Package hyperref Warning: Composite letter `\textasciicaron+r'
+(hyperref)                not defined in PD1 encoding,
+(hyperref)                removing `\textasciicaron' on input line 1232.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1237.
+[66
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1237.
+ (DP_Pflug_Robin.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1237.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1237.
+
+Package rerunfilecheck Info: File `DP_Pflug_Robin.out' has not changed.
+(rerunfilecheck)             Checksum: 816E5B397FA49A3A7AF7A65C80084ACB;3664.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1237.
+ ) 
+Here is how much of TeX's memory you used:
+ 11984 strings out of 492484
+ 171192 string characters out of 3122959
+ 303491 words of memory out of 3000000
+ 15800 multiletter control sequences out of 15000+200000
+ 13512 words of font info for 51 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 40i,18n,45p,2545b,476s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm
+/cmbx12.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
+msfonts/cm/cmbxti10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/ty
+pe1/public/amsfonts/cm/cmex10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.
+9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/HP/AppData/Local/Programs
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/HP/AppData/Local
+/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/HP/AppD
+ata/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users
+/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><
+C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+sl12.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
+ublic/amsfonts/cm/cmsy8.pfb><C:/Users/HP/AppData/Local/Programs/MiKTeX 2.9/font
+s/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/HP/AppData/Local/Programs/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmti12.pfb>
+Output written on DP_Pflug_Robin.pdf (73 pages, 10292296 bytes).
+PDF statistics:
+ 902 PDF objects out of 1000 (max. 8388607)
+ 261 named destinations out of 1000 (max. 500000)
+ 601 words of extra memory for PDF output out of 10000 (max. 10000000)
+

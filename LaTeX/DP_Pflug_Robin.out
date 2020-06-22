@@ -1,0 +1,55 @@
+\BOOKMARK [0][-]{chapter.1}{\332vod}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Re\235er\235e literatury}{}% 2
+\BOOKMARK [1][-]{section.2.1}{VR}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{AR}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.3}{Metody sledov\341n\355 pohybu}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.4}{Metody sberu dat}{chapter.2}% 6
+\BOOKMARK [0][-]{chapter.3}{Virtu\341ln\355 realita \(VR\)}{}% 7
+\BOOKMARK [1][-]{section.3.1}{Definice VR}{chapter.3}% 8
+\BOOKMARK [1][-]{section.3.2}{Historie}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.3}{Metody sledov\341n\355 pohybu}{chapter.3}% 10
+\BOOKMARK [2][-]{subsection.3.3.1}{Constellation}{section.3.3}% 11
+\BOOKMARK [2][-]{subsection.3.3.2}{PlayStation VR}{section.3.3}% 12
+\BOOKMARK [2][-]{subsection.3.3.3}{Lighthouse}{section.3.3}% 13
+\BOOKMARK [2][-]{subsection.3.3.4}{Inside-Out}{section.3.3}% 14
+\BOOKMARK [1][-]{section.3.4}{Hardware VR v soucasnosti}{chapter.3}% 15
+\BOOKMARK [2][-]{subsection.3.4.1}{HTC Vive}{section.3.4}% 16
+\BOOKMARK [2][-]{subsection.3.4.2}{Oculus}{section.3.4}% 17
+\BOOKMARK [2][-]{subsection.3.4.3}{PlayStation VR}{section.3.4}% 18
+\BOOKMARK [2][-]{subsection.3.4.4}{Valve Index}{section.3.4}% 19
+\BOOKMARK [1][-]{section.3.5}{Vyu\236it\355 VR v soucasnosti}{chapter.3}% 20
+\BOOKMARK [2][-]{subsection.3.5.1}{Stavebn\355 prumysl}{section.3.5}% 21
+\BOOKMARK [2][-]{subsection.3.5.2}{Vojenstv\355}{section.3.5}% 22
+\BOOKMARK [2][-]{subsection.3.5.3}{Automotive prumysl}{section.3.5}% 23
+\BOOKMARK [2][-]{subsection.3.5.4}{Marketing}{section.3.5}% 24
+\BOOKMARK [2][-]{subsection.3.5.5}{L\351karstv\355}{section.3.5}% 25
+\BOOKMARK [2][-]{subsection.3.5.6}{Vzdel\341v\341n\355}{section.3.5}% 26
+\BOOKMARK [2][-]{subsection.3.5.7}{Z\341bavn\355 prumysl}{section.3.5}% 27
+\BOOKMARK [0][-]{chapter.4}{Image Based Modeling and Rendering}{}% 28
+\BOOKMARK [0][-]{chapter.5}{Tvorba virtu\341ln\355ho muzea}{}% 29
+\BOOKMARK [1][-]{section.5.1}{Tvorba modelu budovy}{chapter.5}% 30
+\BOOKMARK [1][-]{section.5.2}{Tvorba virtu\341ln\355ho prostred\355}{chapter.5}% 31
+\BOOKMARK [0][-]{chapter.6}{Pou\236it\341 data}{}% 32
+\BOOKMARK [1][-]{section.6.1}{Sber dat}{chapter.6}% 33
+\BOOKMARK [2][-]{subsection.6.1.1}{Pou\236it\351 pr\355stroje}{section.6.1}% 34
+\BOOKMARK [1][-]{section.6.2}{Zpracov\341n\355 dat}{chapter.6}% 35
+\BOOKMARK [2][-]{subsection.6.2.1}{Import}{section.6.2}% 36
+\BOOKMARK [2][-]{subsection.6.2.2}{Aligning photos}{section.6.2}% 37
+\BOOKMARK [2][-]{subsection.6.2.3}{Build dense cloud}{section.6.2}% 38
+\BOOKMARK [2][-]{subsection.6.2.4}{Build mesh}{section.6.2}% 39
+\BOOKMARK [2][-]{subsection.6.2.5}{Build texture}{section.6.2}% 40
+\BOOKMARK [0][-]{chapter.7}{Pr\355prava modelu pro vizualizaci ve VR}{}% 41
+\BOOKMARK [1][-]{section.7.1}{Retopologie modelu}{chapter.7}% 42
+\BOOKMARK [2][-]{subsection.7.1.1}{Instant Meshes}{section.7.1}% 43
+\BOOKMARK [2][-]{subsection.7.1.2}{Agisoft Metashape}{section.7.1}% 44
+\BOOKMARK [1][-]{section.7.2}{Tvorba norm\341lov\375ch map}{chapter.7}% 45
+\BOOKMARK [1][-]{section.7.3}{Unwrapping textur}{chapter.7}% 46
+\BOOKMARK [0][-]{chapter.8}{Import a vizualizace historick\375ch objektu ve VR}{}% 47
+\BOOKMARK [1][-]{section.8.1}{Import modelu do UE4}{chapter.8}% 48
+\BOOKMARK [1][-]{section.8.2}{Tvorba a prirazen\355 materi\341lu}{chapter.8}% 49
+\BOOKMARK [1][-]{section.8.3}{Um\355sten\355 a nasvetlen\355 modelu}{chapter.8}% 50
+\BOOKMARK [0][-]{chapter.9}{Diskuze}{}% 51
+\BOOKMARK [0][-]{chapter.10}{Z\341ver}{}% 52
+\BOOKMARK [0][-]{chapter.11}{Pr\355lohy}{}% 53
+\BOOKMARK [1][-]{section.11.1}{Pr\355loha A - Reporty}{chapter.11}% 54
+\BOOKMARK [1][-]{section.11.2}{Pr\355loha B - Obsah prilo\236en\351ho USB flash drivu}{chapter.11}% 55
